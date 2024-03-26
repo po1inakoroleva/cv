@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Фронтенд разработчик",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "",
   avatarUrl: "https://avatars.githubusercontent.com/u/122518073?v=4",
   personalWebsiteUrl: "",
   contact: {
@@ -69,11 +69,7 @@ export const RESUME_DATA = {
       logo: null,
       start: "Сентябрь 2019",
       end: "Январь 2021",
-      description: "Реализовала несколько иллюстраций для блога "МТС Инвестиции" и ряданебольших компаний.
-Работала с диджитал-издательством Svoemedia, которое специализируется на
-контент-проектах и создании сайтов для них, что позволило мне
-познакомиться с тем, как должен быть устроен приятный и понятный
-пользователю сайт.",
+      description: "Реализовала несколько иллюстраций для блога 'МТС Инвестиции' и ряданебольших компаний.\nРаботала с диджитал-издательством Svoemedia, которое специализируется на контент-проектах и создании сайтов для них, что позволило мне познакомиться с тем, как должен быть устроен приятный и понятный пользователю сайт.",
     },
   ],
   skills: [
