@@ -65,7 +65,7 @@ export const RESUME_DATA = {
       company: "Cars7",
       link: "",
       badges: [],
-      title: "Junior Flutter Developer",
+      title: "Junior Flutter Developer (Стажировка)",
       logo: null,
       start: "Апрель 2024",
       end: "Май 2024",
