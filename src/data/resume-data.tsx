@@ -110,7 +110,7 @@ export const RESUME_DATA = {
         "JavaScript",
         "React",
         "Redux Toolkit",
-        "AJAX",
+        "Axios",
         "Socket.IO",
         "React Router",
         "Formik",
@@ -124,6 +124,25 @@ export const RESUME_DATA = {
       link: {
         label: "",
         href: "https://github.com/po1inakoroleva/SimpleChat",
+      },
+    },
+    {
+      title: "Карты",
+      techStack: [
+        "TypeScript",
+        "React",
+        "Redux Toolkit",
+        "Axios",
+        "MUI",
+        "Formik",
+        "Mapbox GL JS",
+        "React Map GL",
+      ],
+      description: "Приложение для отображения гео-маркеров на карте",
+      logo: null,
+      link: {
+        label: "",
+        href: "https://github.com/po1inakoroleva/map",
       },
     },
      {
