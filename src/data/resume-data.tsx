@@ -62,6 +62,16 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Cars7",
+      link: "",
+      badges: [],
+      title: "Junior Flutter Developer",
+      logo: null,
+      start: "Апрель 2024",
+      end: "Май 2024",
+      description: "Разработка сервисного приложения на Flutter. Верстка страниц мобильного приложения, реализация управления состоянием с помощью Flutter Bloc, работа с API.",
+    },
+    {
       company: "Фриланс",
       link: "",
       badges: ["Remote"],
