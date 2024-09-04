@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Junior Фронтенд разработчик",
   summary:
-    "В настоящее время занимаюсь благотворительной платформой помощи животным 'Help The Paws'. Нахожусь в поиске работы Junior Frontend разработчиком.",
+    "В настоящее время занимаюсь благотворительной платформой помощи животным 'У меня лапки'. Нахожусь в поиске работы Junior Frontend разработчиком.",
   avatarUrl: "https://avatars.githubusercontent.com/u/122518073?v=4",
   personalWebsiteUrl: "",
   contact: {
@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Help The Paws",
+      company: "У меня лапки",
       link: "",
       badges: [],
       title: "Frontend Developer",
